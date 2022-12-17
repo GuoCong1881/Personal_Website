@@ -1,0 +1,36 @@
+/****TAG SELECTOR****/
+body {
+    background-color: #f4fff8;
+}
+hr {
+    background-color: #f4fff8;
+    border-style:dotted none none;
+    border-color: #BCEAD5;
+    border-width: 5px;
+    width:5%;
+}
+h1 {
+    color: #6ed3bd
+}
+h3 {
+    color: #6ed3bd
+}
+
+/**CLASS SELECTORS**/
+.book{
+    color: green;
+}
+
+.author{
+    color: red;
+}
+
+/****ID SELECTOR****/
+#heading {
+color: blue;
+}
+
+/*
+    id should be unique;
+    class doesn't matter, can be used to group similar elements
+*/
