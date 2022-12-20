@@ -27,7 +27,12 @@ h3 {
 
 /****ID SELECTOR****/
 #heading {
-color: blue;
+    color: blue;
+}
+
+/****psudo class****/
+h3:hover{
+    color: gold;
 }
 
 /*
